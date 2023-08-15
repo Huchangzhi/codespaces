@@ -1,0 +1,1 @@
+{"name":"Local: 1263","url":"/workspaces/codespaces/bashu/1263.cpp","tests":[{"id":1692105872440,"input":"6\n8 3 12 6 34 12","output":"3 6 8 12 12 34\n34 12 12 8 6 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/workspaces/codespaces/bashu/1263.cpp","group":"local","local":true}
